@@ -1,0 +1,16 @@
+Basics:
+- Fixed bugs with player-terrain collision, overlapping entities, coin resets
+- Player can climb ladder
+- Player dies when falling off the screen
+- Added spikes (pitfall), when landed on kills player
+- Added more complex enemy AI, moving enemies will chase you when they see you
+- Added key/door, the key is required to interact with the door
+- Created a more complex level, incorporating the new features and entities
+
+Creative:
+- Added archers, they shoot arrows that can kill the player when they see you
+- Added bushes, which the player can hide in, avoiding detection from enemies
+- Player sprite changes when doing specific actions (e.g climbing)
+- Implemented grid based system for rendering terrain, spikes, ladders, etc...
+
+(Adjusted development plan to work on more polished assets and a boss to next milestone, adding additional enemies and equipment to this milestone)

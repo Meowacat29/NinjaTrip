@@ -1,0 +1,11 @@
+Basics:
+- Rendering done for character, coin and enemy. 
+- Basic transformations including player character, enemy movement.
+- Keyboard control for player character.
+- Hard-coded movement for enemy.
+- Smooth player character jump.
+- Continous execution.
+
+Creative:
+- Functional player focused camera.
+

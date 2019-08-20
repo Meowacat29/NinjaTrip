@@ -1,0 +1,12 @@
+Basics:
+- Polygonal geometry with the Blade Trap mesh
+- Extend progressive, non-repetitive play time to 4+ minutes
+- Non-trivial physics with player movement (momentum) and rope swinging (angular momentum)
+- Load level from .txt files
+- Include help tab for controls
+- Improved collision detection
+
+Creative:
+- More complex sprite animation for the player's movements
+- Background added with particle effect
+- 5 levels with varying difficulty

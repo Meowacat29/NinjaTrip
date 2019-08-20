@@ -1,0 +1,4 @@
+/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/build/CMakeFiles/rebuild_cache.dir
+/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/build/CMakeFiles/edit_cache.dir
+/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/build/CMakeFiles/valgrind.dir
+/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/build/CMakeFiles/436d.dir

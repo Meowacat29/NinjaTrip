@@ -1,0 +1,15 @@
+t                            Tc;
+t                            T;
+tttt  c                      t;
+t   Tttttt   c               T;
+t        Ttttttt  c          t;
+t              Tttttt        T;
+t                            t;
+t    k                     ccT;
+t  ttttt          ttttttttttttt;
+t             ctttT          ;
+t           tttT             ;
+t       ctttT                ;
+t  d  tttT                   ;
+ttttttT                      ;
+

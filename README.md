@@ -1,12 +1,12 @@
 # Ninja Game
 
-This platfomer game consists of a few different levels which focus on different types of challenges. The character has to complete certain activities, inclucing jumping across platforms, hiding from enemies, fighting enemies, collectging coins and key and completing puzzles, to reach the end and complete a final challenge with a boss. 
+This platformer game consists of a few different levels which focus on different types of challenges. The character has to complete certain activities, including jumping across platforms, hiding from enemies, fighting enemies, collecting coins and key and completing puzzles, to reach the end and complete a final challenge with a boss.
 
 <p align="center">
-<img src="https://github.com/Meowacat29/NinjiaTrip/blob/master/demo/level_menu.png"/>
-<img src="https://github.com/Meowacat29/NinjiaTrip/blob/master/demo/instructions.png"/>
-<img src="https://github.com/Meowacat29/NinjiaTrip/blob/master/demo/level3.png"/>
-<img src="https://github.com/Meowacat29/NinjiaTrip/blob/master/demo/level4.png"/>
+<img src="https://github.com/Meowacat29/NinjaTrip/blob/master/demo/level_menu.png"/>
+<img src="https://github.com/Meowacat29/NinjaTrip/blob/master/demo/instructions.png"/>
+<img src="https://github.com/Meowacat29/NinjaTrip/blob/master/demo/level3.png"/>
+<img src="https://github.com/Meowacat29/NinjaTrip/blob/master/demo/level4.png"/>
 </p>
 
 [Proposal with Google Drive](https://docs.google.com/document/d/1HeN1tLqx86BddoNLn6Uq_jiA953ug564yrjnjo-3wJc/edit).

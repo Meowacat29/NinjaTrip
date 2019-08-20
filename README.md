@@ -5,8 +5,8 @@ This platfomer game consists of a few different levels which focus on different 
 <p align="center">
 <img src="https://github.com/Meowacat29/NinjiaTrip/blob/master/demo/level_menu.png"/>
 <img src="https://github.com/Meowacat29/NinjiaTrip/blob/master/demo/instructions.png"/>
-<img src="https://github.com/Meowacat29/NinjiaTrip/blob/master/demo/level3"/>
-<img src="https://github.com/Meowacat29/NinjiaTrip/blob/master/demo/level4"/>
+<img src="https://github.com/Meowacat29/NinjiaTrip/blob/master/demo/level3.png"/>
+<img src="https://github.com/Meowacat29/NinjiaTrip/blob/master/demo/level4.png"/>
 </p>
 
 [Proposal with Google Drive](https://docs.google.com/document/d/1HeN1tLqx86BddoNLn6Uq_jiA953ug564yrjnjo-3wJc/edit).

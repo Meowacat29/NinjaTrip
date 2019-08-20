@@ -38,70 +38,6 @@ stdint.h
 inttypes.h
 -
 
-../src/common.hpp
-fstream
--
-gl3w.h
--
-GLFW/glfw3.h
--
-project_path.hpp
-../src/project_path.hpp
-
-../src/project_path.hpp
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/ext/stb_image/stb_image.h
-stb_image.h
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/ext/stb_image/stb_image.h
-stdio.h
--
-stdarg.h
--
-stddef.h
--
-stdlib.h
--
-string.h
--
-limits.h
--
-math.h
--
-stdio.h
--
-assert.h
--
-stdint.h
--
-emmintrin.h
--
-intrin.h
--
-arm_neon.h
--
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/a1.cpp
-common.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
-world.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/world.hpp
-gl3w.h
--
-chrono
--
-iostream
--
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/archer.cpp
-archer.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/archer.hpp
-cmath
--
-math.h
--
-node.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/node.hpp
-
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/archer.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
@@ -110,75 +46,25 @@ node.hpp
 enemy.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/enemy.hpp
 
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/arrow.cpp
-arrow.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/arrow.hpp
-cmath
--
-
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/arrow.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/background.cpp
-background.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/background.hpp
-cmath
--
 
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/background.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
 
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/bladeTrap.cpp
-bladeTrap.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/bladeTrap.hpp
-cmath
--
-string
--
-algorithm
--
-iostream
--
-vector
--
-
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/bladeTrap.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/bush.cpp
-bush.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/bush.hpp
-cmath
--
 
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/bush.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
 
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/coin.cpp
-coin.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/coin.hpp
-cmath
--
-
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/coin.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.cpp
-common.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
-../ext/stb_image/stb_image.h
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/ext/stb_image/stb_image.h
-vector
--
-iostream
--
-sstream
--
 
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
 fstream
@@ -190,37 +76,15 @@ GLFW/glfw3.h
 project_path.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/project_path.hpp
 
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/door.cpp
-door.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/door.hpp
-cmath
--
-
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/door.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/enemy.cpp
-enemy.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/enemy.hpp
-cmath
--
-math.h
--
-node.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/node.hpp
 
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/enemy.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
 node.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/node.hpp
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/grid_back.cpp
-grid_back.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/grid_back.hpp
-iostream
--
 
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/grid_back.hpp
 common.hpp
@@ -228,45 +92,17 @@ common.hpp
 vector
 -
 
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/invisible_wall.cpp
-invisible_wall.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/invisible_wall.hpp
-cmath
--
-
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/invisible_wall.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/key.cpp
-key.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/key.hpp
-cmath
--
 
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/key.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
 
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ladder.cpp
-ladder.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ladder.hpp
-cmath
--
-
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ladder.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/moving_enemy.cpp
-moving_enemy.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/moving_enemy.hpp
-cmath
--
-math.h
--
-node.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/node.hpp
 
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/moving_enemy.hpp
 common.hpp
@@ -278,87 +114,19 @@ enemy.hpp
 vector
 -
 
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/node.cpp
-iostream
--
-list
--
-player.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/player.hpp
-moving_enemy.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/moving_enemy.hpp
-node.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/node.hpp
-
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/node.hpp
 iostream
 -
 list
 -
 
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/particle.cpp
-particle.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/particle.hpp
-cmath
--
-
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/particle.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
 
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/pitfall.cpp
-pitfall.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/pitfall.hpp
-cmath
--
-
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/pitfall.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/player.cpp
-player.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/player.hpp
-grid_back.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/grid_back.hpp
-archer.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/archer.hpp
-moving_enemy.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/moving_enemy.hpp
-coin.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/coin.hpp
-ladder.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ladder.hpp
-terrain.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/terrain.hpp
-pitfall.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/pitfall.hpp
-door.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/door.hpp
-key.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/key.hpp
-bush.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/bush.hpp
-arrow.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/arrow.hpp
-rope.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/rope.hpp
-bladeTrap.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/bladeTrap.hpp
-yeti.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/yeti.hpp
-vector
--
-string
--
-algorithm
--
-cmath
--
-math.h
--
-iostream
--
 
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/player.hpp
 common.hpp
@@ -368,73 +136,25 @@ vector
 
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/project_path.hpp
 
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/rope.cpp
-rope.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/rope.hpp
-cmath
--
-
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/rope.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/terrain.cpp
-terrain.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/terrain.hpp
-cmath
--
 
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/terrain.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/common.hpp
 
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/text_display.cpp
-text_display.h
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/text_display.h
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/text_display.h
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ui/icon.cpp
-icon.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ui/icon.hpp
-iostream
--
-cmath
--
-
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ui/icon.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ui/common.hpp
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ui/mouse.cpp
-mouse.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ui/mouse.hpp
-icon.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ui/icon.hpp
-iostream
--
-cmath
--
 
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ui/mouse.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ui/common.hpp
 
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ui/ui_bg.cpp
-ui_bg.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ui/ui_bg.hpp
-cmath
--
-
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ui/ui_bg.hpp
 common.hpp
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/ui/common.hpp
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/water.cpp
-water.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/water.hpp
-iostream
--
 
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/water.hpp
 common.hpp
@@ -521,16 +241,6 @@ SDL.h
 -
 SDL_mixer.h
 -
-
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/yeti.cpp
-yeti.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/yeti.hpp
-cmath
--
-math.h
--
-node.hpp
-/Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/node.hpp
 
 /Users/xiaolu/Documents/===COURSE===/*CS 436/project/team08game/src/yeti.hpp
 common.hpp
